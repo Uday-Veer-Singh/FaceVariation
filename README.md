@@ -9,7 +9,7 @@ The `@keyframes` `CSS` at-rule controls the intermediate steps in a `CSS` animat
 This gives more control over the intermediate steps of the animation sequence than transitions.
 
 ```css
-/* syntax for lora */
+/* syntax for keyframes */
 
 @keyframes slidein {
   from {
