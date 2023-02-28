@@ -2,7 +2,7 @@
 
 function moody(seed) {
   const low = document.getElementById("sad");
-  const mid = document.getElementById("meh");
+  const mid = document.getElementById("silent");
   const high = document.getElementById("smile");
   const num = ~~(Math.random() * 2) ? true : false;
   if (seed === 1) {
