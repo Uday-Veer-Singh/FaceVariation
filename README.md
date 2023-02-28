@@ -1,4 +1,4 @@
-## FaceVariation
+## pfft
 
 The FaceVariation project is a simple and small-scaled use of `HTML`, `CSS`, `JavaScript`. Here, every click on face will change face expression
 and there are total three face expressions.
